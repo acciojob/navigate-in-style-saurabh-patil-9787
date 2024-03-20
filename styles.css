@@ -1,1 +1,13 @@
-/*  your css code here. If applicable */
+/* /*  your css code here. If applicable * */
+.nav-bar{
+	
+	background-color:#D3D3D3;
+	padding:10px;
+	
+}
+li{
+	display:inline;
+	list-style-type:none;
+	margin-left:1rem;
+	
+}
